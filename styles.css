@@ -1,0 +1,35 @@
+/* add your CSS here */
+.animalpicture {
+width: 300px;
+border: solid;
+margin-bottom: .5em;
+}
+
+.fav-fact {
+font-style: italic;
+}
+
+span {
+font-weight: bold;
+}
+
+.fav-list {
+list-style: none;
+padding: 0;
+margin :0;
+}
+
+.animalcard {
+width: 310px;
+border: 1px solid #dcdcdc;
+box-shadow: 6px 6px 1px #ebebeb;
+padding-left: .7em;
+padding-right: .4em;
+padding-bottom: .7em;
+}
+
+.textbox {
+width: 305px;
+border: 1px solid #dcdcdc;
+font-size: 14px;
+}
